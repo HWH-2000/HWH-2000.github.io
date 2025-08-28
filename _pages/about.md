@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 # 👋 About Me
-I am a 3rd-year Master student at the [Intelligame Lab](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm).  
+I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022, and recently received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm).  
 
-My research interests lie in **Large Language Models**, **AI4Code**, and **Social Media Analysis**.  
+---
 
-📧 [Email](mailto:wenhaohu2000@gmail.com) &nbsp;/&nbsp; [Google Scholar](https://scholar.google.com/citations?user=TIGGcswAAAAJ&hl=zh-CN) &nbsp;/&nbsp; [GitHub](https://github.com/HWH-2000)  
+# 🔍 Research
+My research interests include **Large Language Models (LLMs)**, **AI4Code**, and **Social Media Analysis**. 
 
 ---
 
@@ -52,26 +54,67 @@ My research interests lie in **Large Language Models**, **AI4Code**, and **Socia
 </div>
 </div>
 
-- <img src='../images/DSPT.png' alt="DSPT" width="50%"> [Dual-Stream Pre-Training Transformer to Enhance Multimodal Learning for Social Media Prediction](https://dl.acm.org/doi/10.1145/3664647.3688998), **Wenhao Hu**, Weilong Chen, Weimin Yuan, Yan Wang, Shimin Cai, Yanru Zhang. *ACM MM 2024*.  
+---
 
-- <img src='../images/TTME.png' alt="TTME" width="50%"> [Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363), Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zhu Han. *TCSVT 2024*.  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/DSPT.png' alt="DSPT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- <img src='../images/TTC-VLT.png' alt="TTC-VLT" width="50%"> [Title-and-Tag Contrastive Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3503161.3551568), Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zhang, Yanru Zhang. *ACM MM 2022*.  
+[Dual-Stream Pre-Training Transformer to Enhance Multimodal Learning for Social Media Prediction](https://dl.acm.org/doi/10.1145/3664647.3688998)  
+**Wenhao Hu**, Weilong Chen, Weimin Yuan, Yan Wang, Shimin Cai, Yanru Zhang  
+*ACM Multimedia (CCF-A)*, 2024  
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='../images/TTME.png' alt="TTME" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363)  
+Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zhu Han  
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, CCF-B)*, 2024  
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='../images/TTC-VLT.png' alt="TTC-VLT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Title-and-Tag Contrastive Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3503161.3551568)  
+Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zhang, Yanru Zhang  
+*ACM Multimedia (CCF-A)*, 2022  
+</div>
+</div>
 
 ---
 
 # 🎖 Honors and Awards
-- *2025*: Outstanding Graduate of UESTC  
-- *2022, 2023, 2024*: Top Performance Award, ACM Multimedia Social Media Prediction Challenge  
+2025.06: 🎓 Outstanding Graduate of UESTC  
+2025.06: 🎓 Outstanding Graduate of Sichuan Province  
+2024.11: 🎓 China National Scholarship (China)  
+2024.09: 🏅 First-class Scholarship of UESTC  
+2023.09: 🏅 First-class Scholarship of UESTC  
+2023.06: 🎓 Outstanding Graduate Student of UESTC  
+2022.09: 🏅 First-class Scholarship of UESTC  
+2022.09: 🏆 Best Performance Prize, ACM MM SMP 2022 International Challenge  
+2023.09: 🏆 Best Performance Prize, ACM MM SMP 2023 International Challenge  
+2024.09: 🏆 Best Performance Prize, ACM MM SMP 2024 International Challenge  
 
 ---
 
 # 📖 Education
-- <img src='../images/UESTC.png' alt="UESTC" width="15%"> *2022.09 – present*, **M.Sc. in Computer Science and Technology**, University of Electronic Science and Technology of China (UESTC).  
-  GPA: 3.7/4.0. Advisor: Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm).  
 
-- <img src='../images/HainanU.png' alt="Hainan University" width="15%"> *2018.09 – 2022.07*, **B.Eng. in Computer Science and Technology**, Hainan University.  
-  GPA: 3.8/4.0 (top 2.6%).  
+- <img src='../images/UESTC.png' alt="UESTC" width="13%">  
+  **M.Sc. in Computer Science and Technology** (2022.09 – 2025.06)  
+  University of Electronic Science and Technology of China (UESTC), Chengdu, China  
+  GPA: 3.7/4.0  
+  Advisor: Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm)  
+
+- <img src='../images/HainanU.png' alt="HNU" width="13%">  
+  **B.Eng. in Computer Science and Technology** (2018.09 – 2022.06)  
+  Hainan University, Haikou, China  
+  GPA: 3.8/4.0 (top 2.6%)  
 
 ---
 
