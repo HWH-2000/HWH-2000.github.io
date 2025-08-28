@@ -43,7 +43,7 @@ My research interests lie in **Large Language Models**, **AI4Code**, and **Socia
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2025</div><img src='images/DynaCode.jpg' alt="DynaCode" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2025</div><img src='../images/DynaCode.jpg' alt="DynaCode" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large Language Models in Code Generation](https://arxiv.org/pdf/2503.10452)  
@@ -52,11 +52,11 @@ My research interests lie in **Large Language Models**, **AI4Code**, and **Socia
 </div>
 </div>
 
-- [Dual-Stream Pre-Training Transformer to Enhance Multimodal Learning for Social Media Prediction](https://dl.acm.org/doi/10.1145/3664647.3688998), **Wenhao Hu**, Weilong Chen, Weimin Yuan, Yan Wang, Shimin Cai, Yanru Zhang. *ACM MM 2024*.  
+- <img src='../images/DSPT.png' alt="DSPT" width="50%"> [Dual-Stream Pre-Training Transformer to Enhance Multimodal Learning for Social Media Prediction](https://dl.acm.org/doi/10.1145/3664647.3688998), **Wenhao Hu**, Weilong Chen, Weimin Yuan, Yan Wang, Shimin Cai, Yanru Zhang. *ACM MM 2024*.  
 
-- [Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363), Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zhu Han. *TCSVT 2024*.  
+- <img src='../images/TTME.png' alt="TTME" width="50%"> [Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363), Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zhu Han. *TCSVT 2024*.  
 
-- [Title-and-Tag Contrastive Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3503161.3551568), Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zhang, Yanru Zhang. *ACM MM 2022*.  
+- <img src='../images/TTC-VLT.png' alt="TTC-VLT" width="50%"> [Title-and-Tag Contrastive Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3503161.3551568), Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zhang, Yanru Zhang. *ACM MM 2022*.  
 
 ---
 
@@ -67,10 +67,10 @@ My research interests lie in **Large Language Models**, **AI4Code**, and **Socia
 ---
 
 # 📖 Education
-- *2022.09 – present*, **M.Sc. in Computer Science and Technology**, University of Electronic Science and Technology of China (UESTC).  
+- <img src='../images/UESTC.png' alt="UESTC" width="15%"> *2022.09 – present*, **M.Sc. in Computer Science and Technology**, University of Electronic Science and Technology of China (UESTC).  
   GPA: 3.7/4.0. Advisor: Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm).  
 
-- *2018.09 – 2022.07*, **B.Eng. in Computer Science and Technology**, Hainan University.  
+- <img src='../images/HainanU.png' alt="Hainan University" width="15%"> *2018.09 – 2022.07*, **B.Eng. in Computer Science and Technology**, Hainan University.  
   GPA: 3.8/4.0 (top 2.6%).  
 
 ---
