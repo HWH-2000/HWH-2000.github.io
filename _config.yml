@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Wenhao Hu (胡文浩)"
-description              : "3rd-year Master student at Intelligame Lab, UESTC. Research interests: Large Language Models, AI4Code, Social Media Analysis."
+description              : "LLM"
 repository               : "HWH-2000/HWH-2000.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,14 +15,14 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Wenhao Hu (胡文浩)"
-  avatar           : "images/HWH.jpg"   # 头像路径
-  bio              : "Master student in Computer Science @ UESTC, research on LLMs, AI4Code, and Social Media Analysis."
+  avatar           : "images/HWH.jpg"
+  bio              : "M.Sc. in Computer Science, UESTC."
   location         : "Chengdu, China"
   employer         : "Intelligame Lab, UESTC"
   googlescholar    : "https://scholar.google.com/citations?user=TIGGcswAAAAJ&hl=zh-CN"
   email            : "wenhaohu2000@gmail.com"
   github           : "HWH-2000"
-  linkedin         :  # 你有 LinkedIn 可以加
+  linkedin         :  "https://www.linkedin.com/in/wenhao-hu-hwh2000/" # 你有 LinkedIn 可以加
   dblp             :  # https://dblp.org/pid/xxxx.html 如果有
   orcid            :  # https://orcid.org/xxxx 如果有
 
