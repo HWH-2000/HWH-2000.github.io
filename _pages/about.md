@@ -24,12 +24,15 @@ I obtained my B.Eng. degree in Computer Science and Technology from **Hainan Uni
 ---
 
 # 🔍 Research
-My research interests include **Large Language Models (LLMs)**, **AI4Code**, and **Social Media Analysis**. 
+My research interest currently focuses on:
+- **Large Language Models (LLMs)**
+- **AI4Code**
 
 ---
 
 # 🔥 News
-- *2025.05*: 🎉 Our paper **"DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large Language Models in Code Generation"** is accepted by *ACL Findings 2025*.  
+- *2025.06*: I won the honor of **Outstanding Graduate of Sichuan Province**.  
+- *2025.05*: 🎉 Our paper **"DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large Language Models in Code Generation"** is accepted by *ACL Findings 2025*.   
 - *2025.05*: 🎉 Our paper **"LLM-UIE: Efficient Unified Information Extraction Framework based on Large Language Models"** is accepted by *ASOC (CCF-B, JCR-Q1)*.  
 - *2025.04*: I won the honor of **Outstanding Graduate of UESTC**.  
 - *2024.11*: Our paper **"Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction"** is accepted by *ICASSP 2025 (CCF-B)*.  
@@ -90,16 +93,18 @@ Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zh
 ---
 
 # 🎖 Honors and Awards
-2025.06: 🎓 Outstanding Graduate of UESTC  
 2025.06: 🎓 Outstanding Graduate of Sichuan Province  
+2025.04: 🎓 Outstanding Graduate of UESTC  
 2024.11: 🎓 China National Scholarship (China)  
 2024.09: 🏅 First-class Scholarship of UESTC  
 2023.09: 🏅 First-class Scholarship of UESTC  
-2023.06: 🎓 Outstanding Graduate Student of UESTC  
 2022.09: 🏅 First-class Scholarship of UESTC  
-2022.09: 🏆 Best Performance Prize, ACM MM SMP 2022 International Challenge  
-2023.09: 🏆 Best Performance Prize, ACM MM SMP 2023 International Challenge  
+2023.06: 🎓 Outstanding Graduate Student of UESTC  
 2024.09: 🏆 Best Performance Prize, ACM MM SMP 2024 International Challenge  
+2023.09: 🏆 Best Performance Prize, ACM MM SMP 2023 International Challenge  
+2022.09: 🏆 Best Performance Prize, ACM MM SMP 2022 International Challenge  
+2022.06: 🎓 Outstanding Graduate of Hainan University
+
 
 ---
 
