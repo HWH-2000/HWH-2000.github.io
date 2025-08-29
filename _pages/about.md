@@ -19,7 +19,8 @@ redirect_from:
 
 
 # 👋 About Me
-I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022, and recently received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm).  
+I recently received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.
+
 
 ---
 
@@ -31,6 +32,7 @@ My research interest currently focuses on:
 ---
 
 # 🔥 News
+- *2025.06*: 🎓 I graduated from the **University of Electronic Science and Technology of China (UESTC)** with an M.Sc. in Computer Science and Technology.  
 - *2025.06*: I won the honor of **Outstanding Graduate of Sichuan Province**.  
 - *2025.05*: 🎉 Our paper **"DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large Language Models in Code Generation"** is accepted by *ACL Findings 2025*.   
 - *2025.05*: 🎉 Our paper **"LLM-UIE: Efficient Unified Information Extraction Framework based on Large Language Models"** is accepted by *ASOC (CCF-B, JCR-Q1)*.  
@@ -59,6 +61,17 @@ My research interest currently focuses on:
 
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='../images/FDDN.png' alt="DSPT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10890121)  
+**Wenhao Hu**, Weilong Chen, Weimin Yuan, Xiaolu Chen, Yan Wang, Yanru Zhang, Zhu Han   
+*ICASSP (CCF-B)*, 2025  
+</div>
+</div>
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/DSPT.png' alt="DSPT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -79,16 +92,6 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 </div>
 </div>
 
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='../images/TTC-VLT.png' alt="TTC-VLT" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Title-and-Tag Contrastive Vision-and-Language Transformer for Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3503161.3551568)  
-Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zhang, Yanru Zhang  
-*ACM Multimedia (CCF-A)*, 2022  
-</div>
-</div>
 
 ---
 
@@ -108,18 +111,26 @@ Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zh
 
 ---
 
-# 📖 Education
+# 📚 Education
 
-- <img src='../images/UESTC.png' alt="UESTC" width="13%">  
-  **M.Sc. in Computer Science and Technology** (2022.09 – 2025.06)  
-  University of Electronic Science and Technology of China (UESTC), Chengdu, China  
-  GPA: 3.7/4.0  
-  Advisor: Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm)  
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/UESTC.png" alt="UESTC" width="80" style="margin-right: 20px;">
+  <div>
+    <b>M.Sc. in Computer Science and Technology</b> (2022.09 – 2025.06) <br>
+    University of Electronic Science and Technology of China (UESTC), Chengdu, China <br>
+    GPA: 3.7/4.0 <br>
+    Advisor: Prof. <a href="https://faculty.uestc.edu.cn/yanruzhang/en/index.htm">Yanru Zhang</a>
+  </div>
+</div>
 
-- <img src='../images/HainanU.png' alt="HNU" width="13%">  
-  **B.Eng. in Computer Science and Technology** (2018.09 – 2022.06)  
-  Hainan University, Haikou, China  
-  GPA: 3.8/4.0 (top 2.6%)  
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/HainanU.png" alt="Hainan University" width="80" style="margin-right: 20px;">
+  <div>
+    <b>B.Eng. in Computer Science and Technology</b> (2018.09 – 2022.06) <br>
+    Hainan University, Haikou, China <br>
+    GPA: 3.8/4.0 (top 2.6%)
+  </div>
+</div>
 
 ---
 
@@ -127,7 +138,3 @@ Weilong Chen, Chenghao Huang, Weimin Yuan, Xiaolu Chen, **Wenhao Hu**, Xinran Zh
 - *2025*: Reviewer for ICASSP, ICME, IJCNN, AAAI@GenAI4Health  
 - *2024*: Reviewer for ACM MM, ICME  
 
----
-
-# 🙌 Acknowledgement
-This homepage is built using the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template. Original design inspirations from [Jon Barron](https://jonbarron.info) and [Tianxiang Sun](https://txsun1997.github.io/).
