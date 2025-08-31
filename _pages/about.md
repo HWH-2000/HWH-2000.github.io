@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👋 About Me
-I recently received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.
+I recently received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.  
 
 
 ---
@@ -28,6 +28,7 @@ I recently received my M.Sc. degree in Computer Science and Technology from the 
 My research interest currently focuses on:
 - **Large Language Models (LLMs)**
 - **AI4Code**
+- **Social Media Analysis**
 
 ---
 
@@ -83,7 +84,7 @@ My research interest currently focuses on:
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='../images/TTME.png' alt="TTME" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='../images/TTME.png' alt="TTME" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363)  
@@ -132,9 +133,17 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
   </div>
 </div>
 
+
 ---
 
 # 💼 Service
 - *2025*: Reviewer for ICASSP, ICME, IJCNN, AAAI@GenAI4Health  
 - *2024*: Reviewer for ACM MM, ICME  
+
+
+---
+
+# 💻 Experiences
+2024.09 – Present, Research Intern, working on Large Language Models and AI4Code, in close collaboration with Prof. [Kaidi Xu](https://kaidixu.com/) and Prof. [Li "Harry" Zhang](https://zharry29.github.io/) from Drexel University.  
+
 
