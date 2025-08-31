@@ -24,6 +24,8 @@ I recently received my M.Sc. degree in Computer Science and Technology from the 
 
 ---
 
+<span id="research"></span>
+
 # 🔍 Research
 My research interest currently focuses on:
 - **Large Language Models (LLMs)**
@@ -31,6 +33,8 @@ My research interest currently focuses on:
 - **Social Media Analysis**
 
 ---
+
+<span id="news"></span>
 
 # 🔥 News
 - *2025.06*: 🎓 I graduated from the **University of Electronic Science and Technology of China (UESTC)** with an M.Sc. in Computer Science and Technology.  
@@ -49,7 +53,11 @@ My research interest currently focuses on:
 
 ---
 
+<span id="publications"></span>
+
 # 📝 Selected Publications
+
+See the full paper list on [Google Scholar](https://scholar.google.com/citations?user=TIGGcswAAAAJ&hl=zh-CN).   
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2025</div><img src='../images/DynaCode.jpg' alt="DynaCode" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,6 +104,8 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 
 ---
 
+<span id="honors-and-awards"></span>
+
 # 🎖 Honors and Awards
 2025.06: 🎓 Outstanding Graduate of Sichuan Province  
 2025.04: 🎓 Outstanding Graduate of UESTC  
@@ -111,6 +121,8 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 
 
 ---
+
+<span id="education"></span>
 
 # 📚 Education
 
@@ -136,12 +148,16 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 
 ---
 
+<span id="services"></span>
+
 # 💼 Service
 - *2025*: Reviewer for ICASSP, ICME, IJCNN, AAAI@GenAI4Health  
 - *2024*: Reviewer for ACM MM, ICME  
 
 
 ---
+
+<span id="experiences"></span>
 
 # 💻 Experiences
 2024.09 – Present, Research Intern, working on Large Language Models and AI4Code, in close collaboration with Prof. [Kaidi Xu](https://kaidixu.com/) and Prof. [Li "Harry" Zhang](https://zharry29.github.io/) from Drexel University.  
