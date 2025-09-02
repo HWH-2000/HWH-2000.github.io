@@ -27,10 +27,11 @@ I recently received my M.Sc. degree in Computer Science and Technology from the 
 <span id="research"></span>
 
 # 🔍 Research
-My research interest currently focuses on:
-- **Large Language Models (LLMs)**
-- **AI4Code**
-- **Social Media Analysis**
+My research interest currently focuses on:  
+⚡ **Large Language Models (LLMs)**: Reasoning, and LLM-based agent systems.  
+⚡ **AI4Code**: Code generation, evaluation, and improving the reliability and usability of code produced by LLMs.  
+⚡ **Social Media Analysis**: Multimodal learning, and social media prediction.  
+
 
 ---
 
@@ -146,14 +147,6 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 </div>
 
 
----
-
-<span id="services"></span>
-
-# 💼 Service
-- *2025*: Reviewer for ICASSP, ICME, IJCNN, AAAI@GenAI4Health  
-- *2024*: Reviewer for ACM MM, ICME  
-
 
 ---
 
@@ -161,5 +154,13 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 
 # 💻 Experiences
 2024.09 – Present, Research Intern, working on Large Language Models and AI4Code, in close collaboration with Prof. [Kaidi Xu](https://kaidixu.com/) and Prof. [Li "Harry" Zhang](https://zharry29.github.io/) from Drexel University.  
+
+---
+
+<span id="services"></span>
+
+# 💼 Service
+- *2025*: Reviewer for ICASSP, ICME, IJCNN, AAAI@GenAI4Health  
+- *2024*: Reviewer for ACM MM, ICME  
 
 
