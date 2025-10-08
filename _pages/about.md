@@ -21,16 +21,19 @@ redirect_from:
 # 👋 About Me
 I recently received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.  
 
+🎯 <span style="color:red; font-weight:bold;">I am currently looking for a Ph.D. position for Fall 2026.</span>    
+If you are interested in my background or research, please feel free to contact me. I’m always open to academic discussion and collaboration!
+
 
 ---
 
 <span id="research"></span>
 
 # 🔍 Research
-My research interest currently focuses on:  
+My primary research interest lies in the domain of **Trustworthy AI**, encompassing **explainability**, **robustness**, **faithfulness**, and **reliability** of large language models and their applications. Specifically, my research interest currently focuses on:  
 ⚡ **Large Language Models (LLMs)**: Reasoning, and LLM-based agent systems.  
 ⚡ **AI4Code**: Code generation, evaluation, and improving the reliability and usability of code produced by LLMs.  
-⚡ **Social Media Analysis**: Multimodal learning, and social media prediction.  
+⚡ **Social Media Analysis**: Multimodal learning, and Social Media Prediction.  
 
 
 ---
