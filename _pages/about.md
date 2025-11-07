@@ -44,7 +44,7 @@ My primary research interest lies in the domain of **Trustworthy AI**, encompass
 - *2025.06*: 🎓 I graduated from the **University of Electronic Science and Technology of China (UESTC)** with an M.Sc. in Computer Science and Technology.  
 - *2025.06*: I won the honor of **Outstanding Graduate of Sichuan Province**.  
 - *2025.05*: 🎉 Our paper **"DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large Language Models in Code Generation"** is accepted by *ACL Findings 2025*.   
-- *2025.05*: 🎉 Our paper **"LLM-UIE: Efficient Unified Information Extraction Framework based on Large Language Models"** is accepted by *ASOC (CCF-B, JCR-Q1)*.  
+- *2025.05*: 🎉 Our paper **"LLM-UIE: Efficient Unified Information Extraction Framework based on Large Language Models"** is accepted by *ASOC (JCR-Q1)*.  
 - *2025.04*: I won the honor of **Outstanding Graduate of UESTC**.  
 - *2024.11*: Our paper **"Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction"** is accepted by *ICASSP 2025 (CCF-B)*.  
 - *2024.09*: Our paper **"Tri-Modal Transformers with Mixture-of-Modality-Experts for Social Media Prediction"** is accepted by *TCSVT (CCF-B, JCR-Q1)*.  
@@ -78,7 +78,7 @@ See the full paper list on [Google Scholar](https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [Feature Disentangling Dual-stream Network for User Bias Alleviation in Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10890121)  
-**Wenhao Hu**, Weilong Chen, Weimin Yuan, Xiaolu Chen, Yan Wang, Yanru Zhang, Zhu Han   
+**Wenhao Hu**, Weilong Chen, Weimin Yuan, Xiaolu Chen, Han Yang, Yanru Zhang, Zhu Han   
 *ICASSP (CCF-B)*, 2025  
 </div>
 </div>
@@ -163,6 +163,7 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 <span id="services"></span>
 
 # 💼 Service
+- *2026*: Reviewer for ICASSP 
 - *2025*: Reviewer for ICASSP, ICME, IJCNN, AAAI@GenAI4Health  
 - *2024*: Reviewer for ACM MM, ICME  
 
