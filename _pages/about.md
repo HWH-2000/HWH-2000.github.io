@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👋 About Me
-I am an Incoming Ph.D. student in Data Science and Artificial Intelligence (DSAI) at **The Hong Kong Polytechnic University (PolyU)**. I recently received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.  
+I am an Incoming Ph.D. student in Data Science and Artificial Intelligence (DSAI) at **The Hong Kong Polytechnic University (PolyU)**. I received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.  
  
 If you are interested in my background or research, please feel free to contact me. I’m always open to academic discussion and collaboration!
 
