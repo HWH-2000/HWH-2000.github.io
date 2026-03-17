@@ -157,8 +157,7 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 
 # 💻 Experiences
 2024.09 – 2025.10, Research Intern, working on Large Language Models and AI4Code, in close collaboration with Prof. [Kaidi Xu](https://kaidixu.com/) and Prof. [Li "Harry" Zhang](https://zharry29.github.io/) from Drexel University.    
-2026.01 – Present, collaborating with faculty members at **The Hong Kong Polytechnic University (PolyU)** on research related to **LLM Collaboration**.
----
+2026.01 – Present, Research Intern, collaborating with faculty members at PolyU on research related to LLM Collaboration.
 
 <span id="services"></span>
 
