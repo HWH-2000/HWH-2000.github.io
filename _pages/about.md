@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Wenhao Hu (胡文浩)"
-excerpt: "Incoming Ph.D. student in DSAI at PolyU. Research in LLMs, LLM Collaboration, AI4Code, Social Media Analysis."
+excerpt: "Ph.D. student in DSAI at PolyU. Research in LLMs, LLM Collaboration, AI4Code, Social Media Analysis."
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👋 About Me
-I am an Incoming Ph.D. student in Data Science and Artificial Intelligence (DSAI) at **The Hong Kong Polytechnic University (PolyU)**. I received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.  
+I am a Ph.D. student in Data Science and Artificial Intelligence (DSAI) at **The Hong Kong Polytechnic University (PolyU)**, supervised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/). I also work closely with Prof. [Xingyu Wu](https://wuxingyu-ai.github.io/). I received my M.Sc. degree in Computer Science and Technology from the **University of Electronic Science and Technology of China (UESTC)** in 2025, advised by Prof. [Yanru Zhang](https://faculty.uestc.edu.cn/yanruzhang/en/index.htm). Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from **Hainan University** in 2022.
  
 If you are interested in my background or research, please feel free to contact me. I’m always open to academic discussion and collaboration!
 
@@ -165,5 +165,3 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 - *2026*: Reviewer for ICASSP, ACL
 - *2025*: Reviewer for ICASSP, ICME, IJCNN, AAAI@GenAI4Health  
 - *2024*: Reviewer for ACM MM, ICME  
-
-
