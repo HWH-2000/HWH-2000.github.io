@@ -41,6 +41,7 @@ My primary research interest lies in the domain of **Trustworthy AI**, encompass
 <span id="news"></span>
 
 # 🔥 News
+- *2026.05*: 🎓 I joined the **MIND Lab** at **The Hong Kong Polytechnic University (PolyU)** as a Ph.D. student.
 - *2025.06*: 🎓 I graduated from the **University of Electronic Science and Technology of China (UESTC)** with an M.Sc. in Computer Science and Technology.  
 - *2025.06*: I won the honor of **Outstanding Graduate of Sichuan Province**.  
 - *2025.05*: 🎉 Our paper **"DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large Language Models in Code Generation"** is accepted by *ACL Findings 2025*.   
@@ -131,6 +132,15 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 # 📚 Education
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/PolyU.png" alt="PolyU" width="80" style="margin-right: 20px;">
+  <div>
+    <b>Ph.D. in Data Science and Artificial Intelligence</b> (2026.05 – Present) <br>
+    The Hong Kong Polytechnic University (PolyU), Hong Kong SAR <br>
+    Advisor: Prof. <a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">Kay Chen Tan</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/UESTC.png" alt="UESTC" width="80" style="margin-right: 20px;">
   <div>
     <b>M.Sc. in Computer Science and Technology</b> (2022.09 – 2025.06) <br>
@@ -156,8 +166,13 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
 <span id="experiences"></span>
 
 # 💻 Experiences
-2024.09 – 2025.10, Research Intern, working on Large Language Models and AI4Code, in close collaboration with Prof. [Kaidi Xu](https://kaidixu.com/) and Prof. [Li "Harry" Zhang](https://zharry29.github.io/) from Drexel University.    
-2026.01 – Present, Research Intern, collaborating with faculty members at PolyU on research related to LLM Collaboration.
+2024.09 – 2025.10, Research Intern, working on Large Language Models and AI4Code, in close collaboration with Prof. [Kaidi Xu](https://kaidixu.com/) and Prof. [Li “Harry” Zhang](https://zharry29.github.io/) from Drexel University.
+
+
+2026.01 – 2026.04, Research Intern, collaborating with Prof. [Xingyu Wu](https://wuxingyu-ai.github.io/) at PolyU on research related to LLM Collaboration.
+
+
+
 
 <span id="services"></span>
 
