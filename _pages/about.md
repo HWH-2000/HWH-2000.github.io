@@ -29,11 +29,12 @@ If you are interested in my background or research, please feel free to contact 
 <span id="research"></span>
 
 # 🔍 Research
-My primary research interest lies in the domain of **Trustworthy AI**, encompassing **explainability**, **robustness**, **faithfulness**, and **reliability** of large language models and their applications. Specifically, my research interest currently focuses on:  
-⚡ **Large Language Models (LLMs)**: reasoning, evaluation, and LLM-based agent systems.  
-⚡ **LLM Collaboration**: collaborative inference, multi-LLM systems, model routing, and cooperation strategies across LLMs.  
-⚡ **AI4Code**: code generation, benchmark construction, and improving the reliability and usability of LLM-generated code.  
-⚡ **Social Media Analysis**: multimodal learning, social media prediction, and related trustworthy modeling problems.  
+My research focuses on **Trustworthy AI**, particularly the **explainability**, **robustness**, **faithfulness**, and **reliability** of large language models and their applications. My current research interests include:<br>
+⚡ **Large Language Models (LLMs)**: reasoning, evaluation, and LLM-based agent systems.<br>
+⚡ **Collaborative LLM Systems**: model routing, collaborative inference, and cooperation among multiple LLMs.<br>
+⚡ **LLMs for Code**: code generation, code evaluation, and improving the reliability of LLM-generated code.
+
+Previously, I worked on **multimodal learning and social media prediction**.
 
 
 ---
