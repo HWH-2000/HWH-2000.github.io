@@ -42,6 +42,7 @@ Previously, I worked on **multimodal learning and social media prediction**.
 <span id="news"></span>
 
 # 🔥 News
+- *2025.08*: 🎉 Our paper **"EQL-Act: Evidence Query Language Guided Scientific Operation Acting for Scientific VQA"** is accepted by *EMNLP Findings 2026*.   
 - *2026.05*: 🎓 I joined the **MIND Lab** at **The Hong Kong Polytechnic University (PolyU)** as a Ph.D. student.
 - *2025.06*: 🎓 I graduated from the **University of Electronic Science and Technology of China (UESTC)** with an M.Sc. in Computer Science and Technology.  
 - *2025.06*: I won the honor of **Outstanding Graduate of Sichuan Province**.  
