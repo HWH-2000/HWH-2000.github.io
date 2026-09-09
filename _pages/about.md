@@ -138,7 +138,7 @@ Weilong Chen, **Wenhao Hu**, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zh
   <div>
     <b>Ph.D. in Data Science and Artificial Intelligence</b> (2026.05 – Present) <br>
     The Hong Kong Polytechnic University (PolyU), Hong Kong SAR <br>
-    Advisor: Prof. <a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">Kay Chen Tan</a>
+    导师 / Supervisors: <a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">Prof. Kay Chen Tan</a> (IEEE Fellow) and <a href="https://www.polyu.edu.hk/dsai/people/academic-staff/wu-xingyu/?sc_lang=en">Prof. Xingyu Wu</a>
   </div>
 </div>
 
